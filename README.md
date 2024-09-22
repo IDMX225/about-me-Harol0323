@@ -1,4 +1,4 @@
 # README
 
-Harol De Leon (testing)
+Harol Rodriguez (testing)
 
