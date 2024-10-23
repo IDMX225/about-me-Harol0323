@@ -2,34 +2,73 @@ Body{
     font-family:itim;
     background-color:#EBCC7B;
     color: #003EEB;
+
 }
+
+
+
 h1,h2,h3,h4,h5,h6 {
     font-family:"Shrikhand";
+
+}
+
+h1{
     font-size: 40pt;
 }
+
+h2{
+    text-align: center;
+
+}
+
 header{
     display: flex;
     text-align: center;
 }
+
 .blue-origami-logo{
+   
     margin-left: 0;
+
 }
+
 h1{
-    position: absolute;
-    left:50% ;
-    transform: translateX(-50%);
+    align-content: center;
+    text-align: center;
+
 }
+
 #hero,footer{
+    
     color:#9C9481;
     border:5px solid #2449AD  ;
     text-align: center;
     font-size: 20px; ;
     background-color:#4A4129 ;
     padding: 20px;
+
 }
+
 #hero img{
+    
     width:250px;
 }
+
 #bio {
+    
     text-align: center ;
 }
+
+#hobbies ul li:nth-child(even){
+    color: black;
+    }
+    #hobbies ul li:nth-child(odd){
+    color: red;
+    }
+    
+    #hobbies ul {
+    
+        font-size: 20px;
+        
+    }
+    
