@@ -41,7 +41,10 @@ h1{
 #hero,footer{
     
     color:#9C9481;
-    border:5px solid #2449AD  ;
+    border:5px double #2449AD  ;
+    border-radius:20px;
+    margin:40px;
+    padding: 50px;
     text-align: center;
     font-size: 20px;
     background-color:#4A4129 ;
@@ -58,10 +61,10 @@ h1{
 #bio {
     border:3px solid #2449AD;
     text-align: center ;
+    margin:40px;
+
+
 }
-
-
-
 
 
 /* Hobbies */
@@ -94,7 +97,8 @@ h1{
 #gallery img{
 
     max-width: 100%;
-    border: 5px solid red
+    border: 5px solid red;
+    border-radius: 20px;
     
 
 }
@@ -103,14 +107,14 @@ h1{
 
     text-align: center;
     font-size: 25px;
-    background-color:#4A4129;
-    border: 3px solid #2449AD;
+    
+    
 
 }
     
-#article p,div,h2{
+#list{
 
     border: 3px solid black;
-    background-color:#4A4129;
+    border-radius: 3px;
 
 }
