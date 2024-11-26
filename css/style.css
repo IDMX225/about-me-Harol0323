@@ -38,7 +38,7 @@ h1{
     text-align: center;
 
 }
-/*hero section*/
+        /*hero section*/
 #hero,footer{
     
     color:#9C9481;
@@ -58,7 +58,7 @@ h1{
     width:250px;
 }
 
-/* bio setion*/
+            /* bio setion*/
 #bio {
     border:3px solid #2449AD;
     text-align: center ;
@@ -68,7 +68,7 @@ h1{
 }
 
 
-/* Hobbies */
+        /* Hobbies */
 
 #hobbies{
 
@@ -94,7 +94,7 @@ h1{
     }
 
 
-/* gallery */ 
+            /* gallery */ 
 
 #gallery {
 
@@ -118,7 +118,7 @@ h1{
     
 
 }
-    
+                /*literature*/
 #lit{
 
     border: 3px solid black;
@@ -149,6 +149,25 @@ h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
 
 }
+
+        /*video*/
+
+        #video {
+            text-align: center;
+        }
+        
+        #video h2 {
+            margin: auto;
+            color: #000;
+            font-sisze: 30px;
+        }
+        
+        #video iframe {
+            border: 3px solid #000; 
+            border-radius: 8px; 
+            box-shadow: 0 4px 8px black; 
+        }        
+
 
 
 @media screen {min-width: 60 em}
